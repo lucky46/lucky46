@@ -1,6 +1,7 @@
 # Hi — I'm Lakshman Choudhary 👋
-
-Software engineer who cares about building reliable, maintainable systems and shipping value. Welcome to my GitHub — this README is a quick snapshot of who I am, what I build, and how to get in touch.
+ Welcome to my GitHub — this README is a quick snapshot of who I am, what I build, and how to get in touch.
+ 
+Software engineer who cares about building reliable, maintainable systems and shipping value.
 I work on solving practical problems with software and enjoy collaborating on open-source and product-focused engineering work. I prefer clean, well-tested code and pragmatic solutions that make a real impact.
 
 ---
