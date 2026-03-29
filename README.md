@@ -30,11 +30,11 @@ I focus on delivering end-to-end solutions that are dependable and maintainable.
 
 ## Top skills
 
-- [ ] Skill 1 (e.g., Node.js / Python / Go)
-- [ ] Skill 2 (e.g., PostgreSQL / Redis)
-- [ ] Skill 3 (e.g., Kubernetes / Docker / CI)
-- [ ] Skill 4 (e.g., TypeScript / React)
-- [ ] Skill 5 (testing, observability, infra-as-code)
+- Node.js / Python / Go
+- PostgreSQL / Redis
+- Kubernetes / Docker / CI
+- TypeScript / React
+- testing, observability, infra-as-code
 
 
 
