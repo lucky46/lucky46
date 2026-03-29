@@ -2,7 +2,7 @@
  Welcome to my GitHub — this README is a quick snapshot of who I am, what I build, and how to get in touch.
  
 Software engineer who cares about building reliable, maintainable systems and shipping value.
-I work on solving practical problems with software and enjoy collaborating on open-source and product-focused engineering work. I prefer clean, well-tested code and pragmatic solutions that make a real impact.
+I work on solving practical problems and enjoy collaborating on open-source and product-focused engineering work. I prefer clean, well-tested code and pragmatic solutions that make a real impact.
 
 ---
 
@@ -21,8 +21,7 @@ I focus on delivering end-to-end solutions that are dependable and maintainable.
 - Node.js / Python / Go
 - PostgreSQL / Redis
 - Kubernetes / Docker / CI
-- TypeScript / React
-- testing, observability, infra-as-code
+- Javascript / React
 
 ---
 
